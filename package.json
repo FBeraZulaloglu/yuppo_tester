@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/node": "^7.25.0",
+    "@babel/preset-env": "^7.25.4",
+    "express": "^4.21.0",
+    "jest": "^29.7.0",
+    "jtest": "^0.0.1",
+    "supertest": "^7.0.0",
+    "test": "^3.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
